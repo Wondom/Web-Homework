@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+    
+}
+body{
+    margin: 0px;
+    background-color:rgb(255, 234, 210);
+    
+}
+.row{
+    width: 80%;
+    margin: auto;
+    height: 90vh;
+}
+img{
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    padding: 10px; 
+    color: #6D5D6E;
+}
+form textarea{
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+}

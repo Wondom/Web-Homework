@@ -1,0 +1,38 @@
+body{
+    background-color: #F3DEBA;
+}
+
+h1{
+    font-family: cursive;
+        text-align: center;
+        padding: 5px 0px;
+        background-color: #393646;
+        color:  #F4EEE0;
+}
+form{
+    display: block;
+    width: 50%;
+    padding-top:30px ;
+    margin: auto;
+    margin-top: 10px;
+}
+form input {
+    display: block;
+    width: 90%;
+}
+
+.btn{
+    display: block;
+    width :50%;
+    margin: auto;
+    margin-top: 10px;
+    height: 50px;
+    background-color: #ABC4AA;
+    border: none;
+    color: #6D5D6E;
+}
+
+.btn:hover{
+    color: #ABC4AA;
+    background-color: #6D5D6E;
+}
