@@ -1,0 +1,73 @@
+body{
+    font-size: 1.6em;
+    text-align:justify;
+}
+.row{
+    margin: 0px;
+}
+p{
+    margin:5px 0px;
+    /*padding:0px 20px;*/
+}
+h1{
+    text-align: center;
+    padding: 5px 0px;
+    background-color: #393646;
+    color:  #F4EEE0;
+}
+h2{
+    background-color:#ABC4AA;
+    color: #675D50;
+}
+h3{
+    color: #675D50;
+}
+section ul li {
+    font-style: italic;
+}
+.justme{
+    width: 80%;
+    margin: auto;
+}
+img{
+    display: block;
+    width: 30%;
+    float: left;
+
+}
+
+/*Form */
+#loginForm{
+    display: block;
+    width: 100%;
+    padding:20px ;
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid #ABC4AA;
+    border-radius: 10px ;
+}
+#loginForm input {
+    display: block;
+    width: 90%;
+}
+
+#loginForm .btn{
+    display: block;
+    width :50%;
+    margin: auto;
+    margin-top: 10px;
+    height: 50px;
+    background-color: #ABC4AA;
+    border: none;
+    color: #6D5D6E;
+}
+
+#loginForm .btn:hover{
+    color: #ABC4AA;
+    background-color: #6D5D6E;
+}
+#chartBtn{
+  padding: 20px;
+    border: 1px solid #F4EEE0;
+    border-radius: 5px;
+}
