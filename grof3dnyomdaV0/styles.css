@@ -1,0 +1,64 @@
+body {
+	background-color: #635985;
+	color: wheat;
+
+}
+
+/*Divs for the language switch */
+.hungaryDiv {
+	display: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.englishDiv {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*The navbars */
+nav {
+	background-color: #18122B;
+
+}
+
+nav ul {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#gomb {
+	background-color: #443C68;
+
+}
+
+nav li a,
+nav button {
+	text-decoration: none;
+	background-color: #18122B;
+	border: none;
+	color: wheat;
+	font-size: large;
+	text-transform: uppercase;
+}
+
+
+footer{
+	background-color: #443C68;
+	border: 1px solid #18122B;
+	padding-top: 30px ;
+	padding-bottom: 30px;
+	text-align: center;
+	
+}
+footer img{
+
+	width: 5%;
+	height: auto;
+}
