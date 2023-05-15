@@ -1,0 +1,21 @@
+form{
+    display: inline;
+}
+img{
+   
+    width: 80%;
+
+}
+input[type="number"]{
+    display: block;
+    width: 40px;
+}
+.orderedItem{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top:20px;
+    margin-bottom:20px;
+    border: 2px solid #8D7B68;
+    border-radius: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(141, 123, 104, .2);
+}

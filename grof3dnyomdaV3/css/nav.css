@@ -1,0 +1,28 @@
+.row{
+    margin:0;
+}
+nav{
+    background:linear-gradient(45deg,#8D7B68,#F1DEC9);
+}
+nav a{
+    color: #F1DEC9;
+}
+nav svg{
+    width: 50px;
+}
+nav a:hover{
+    background-color: #F1DEC9;
+    color: #8D7B68;
+    border-radius: 10px;
+}
+nav a:hover svg{
+    fill: #8D7B68;
+}
+.btrap-icons:hover{
+    background-color: inherit;
+    padding-bottom:5px;
+    padding-top: 5px;
+    border: 1px solid #8D7B68;
+    border-radius: 5px;
+}
+   
