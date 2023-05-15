@@ -1,0 +1,34 @@
+body{
+    background-color: #FDF4F5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+h1, h2, h3{
+    text-transform: uppercase;
+}
+h1{
+    
+    background-color: rgb(192, 219, 234, 0.4);
+    text-align: center;
+    padding: 10px 0px;
+}
+h2{
+    color: rgb(18, 75, 110);
+    padding: 10PX 0px 0px 0px;
+}
+h3{
+    color:rgb(131, 123, 202);
+    padding: 0px;
+}
+p{
+    text-align: justify;
+    text-indent: 5px;
+}
+.justme{
+    width: 80%;
+    margin: auto;
+}
+img{
+    width: 40%;
+    float: left;
+}
