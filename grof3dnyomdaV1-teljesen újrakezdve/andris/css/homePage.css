@@ -1,0 +1,27 @@
+body{
+    font-size: 1.6em;
+    text-align:justify;
+}
+.row{
+    margin: 0px;
+}
+p{
+    margin:5px 0px;
+    /*padding:0px 20px;*/
+}
+h1{
+    text-align: center;
+    padding: 5px 0px;
+    background-color: #393646;
+    color:  #F4EEE0;
+}
+h2{
+    background-color:#ABC4AA;
+    color: #675D50;
+}
+h3{
+    color: #675D50;
+}
+section ul li {
+    font-style: italic;
+}

@@ -1,0 +1,40 @@
+nav{
+    background-color:#6D5D6E ;
+}
+nav ul{
+    padding: 5px 0px;
+}
+nav li{
+    padding: 0px 10px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: none;
+    color: antiquewhite;
+    color: #6D5D6E;
+}
+nav li:hover{
+    background-color:#F4EEE0 ;
+    border-radius: 10px;
+}
+
+nav .submitBtn{
+    border: none;
+    background-color: inherit;
+    color: inherit;
+}
+nav button{
+    padding: 0px 10px;  
+    border: none;
+    background-color: inherit;
+    color: inherit;
+}
+nav button:hover{
+    border: none;
+    background-color: #F4EEE0;
+    color:  #6D5D6E;
+    border-radius: 10px;
+}
